@@ -1,8 +1,8 @@
 import TelegramBot from "node-telegram-bot-api";
 
-const TOKEN = "YANGI_TOKENNI_SHUYERGA_QOYING";
 
-const bot = new TelegramBot(TOKEN, { polling: true });
+const bot = new TelegramBot("8224847574:AAG8QWG_RCYvQ5q4wwxua2sFJhLTKYdpwFc", { polling: true });
+
 
 console.log("🤖 Bot ishga tushdi...");
 

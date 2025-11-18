@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Abdusharipov420/tg_bot.82#readme",
   "dependencies": {
+    "dotevn": "^0.0.1-security",
     "node-telegram-bot-api": "^0.66.0"
   },
   "devDependencies": {
